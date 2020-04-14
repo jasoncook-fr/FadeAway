@@ -12,6 +12,6 @@ sudo pip install adafruit-pca9685
 The code test-servo-range.py is destined as a first test with your servo motors.
 This is for testing the given servo's range. Run the code and take note of lowest and highest numbers to which the motor responds.
 
-References:
-https://github.com/mrichardson23/FadeAway
+References:<br \>
+https://github.com/mrichardson23/FadeAway <br \>
 https://github.com/adafruit/Adafruit_Python_PCA9685/
